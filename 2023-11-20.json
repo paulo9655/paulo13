@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Garner",
+  "age": 40,
+  "address": {
+    "street": "Bisit River",
+    "city": "Waapsu",
+    "state": "WV",
+    "zip": "21806"
+  },
+  "contact": {
+    "phone": "(981) 331-9737",
+    "servicePhone": "800892892"
+  },
+  "birthday": "1973-10-07T14:59:42.210Z",
+  "ip": "145.227.69.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe zu bipsene or voicisih olaregce dirzog ovmurgi az gulujme bonmi demri ut segrokril. Lispinewe run iducakki va emaheike meonu zalih osiwejzew egu bohten zum zo paj vahsed lehici hil cibofuz. Bazak tat ma mer kuguvitec pogsi zero mibce powes raawew kohtuteje dupa.",
+    "bio": "De gel vosdonpum marip jitconteb wilmoh cugeji fot ohupe pamipfer kagapku hemzejlal dab malkim setezizad. Oze wuv voof fezbe momtakep bu zova de gun igiha vewzicen te law niid ba reupor fav idbaija. Raop uhizeved zosuzi ma dulfuha mumej agoso co dipta kosjibce lef papdozoj lefkijed."
+  },
+  "apiKey": "2f336e2ccf1b2bdc6ad8ad4166d23d9c31f063645dba15006f0b34b723a6c9ae",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
