@@ -1,0 +1,26 @@
+{
+  "name": "Glen Fields",
+  "age": 36,
+  "address": {
+    "street": "Gasgoj Path",
+    "city": "Netokil",
+    "state": "WA",
+    "zip": "42386"
+  },
+  "contact": {
+    "phone": "(374) 528-6502",
+    "servicePhone": "800955836"
+  },
+  "birthday": "2006-07-13T19:06:05.645Z",
+  "ip": "184.184.38.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Sahfismef ib sezot bosal cilcer hedig apdavur hivoso uba huresa offofhok hu faw la ic bakegec dokosu woki. Oj gef ron odolef cokanzam wore zuggige ceb rojelud uworep fodawkip gos cegompek upu hizu sudla hi galzi. Wuba ijafarosa udo vodelbib umu apotun cof azpigcu oj te abzar boeji cujev gi nucomaj.",
+    "bio": "Rutew despaok uhfuh getbistob mihleggod ikeretpa fujcalot obo bolufa kifis bij notuf jo gipoja uksapuzu omegefho nuhahe. Cukahi vi tuve gewtej iceti pigat luje mikzijos bi ub um guh. Zuplu neehozev kaopine asizuge jimwa fe vebozlid he ipriov lefta bipibome diir uv zo pe fuh uja epko. Simde sa wubginfit su webeg sogsis jujpecak ufizahwuh birem juwe pular tonlugal. Pool miwmaszuj meg adihem owuuh oniwovod baake divepmof fejon divcejof gorak azdenman pedokufo houz uve mo sa sizloga. Powal ru jom agar irlar teced nevadil baleza tasermu fodde warsivo ges cetmirgef ekufel he."
+  },
+  "apiKey": "1aa232ec0787cb1f2678d30136537f542db925ffafecce2eb0493b15d4dd954c",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
