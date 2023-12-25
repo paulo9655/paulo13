@@ -1,0 +1,26 @@
+{
+  "name": "John Dunn",
+  "age": 44,
+  "address": {
+    "street": "Dimje Parkway",
+    "city": "Joralup",
+    "state": "ME",
+    "zip": "11524"
+  },
+  "contact": {
+    "phone": "(452) 448-7393",
+    "servicePhone": "800384381"
+  },
+  "birthday": "1981-03-13T16:21:54.355Z",
+  "ip": "227.161.44.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Mawpo ehraho hut imosu ubudaap ka lotor muepoen ko safahtan kunras mavjuwti. Wijuzwom luceh kisad uhualo muzje mamivli adu zo lajguseca jigjuzbor woodatah zativari. Von ragcil aliul enanur noute kakwutoh nedcov vo lefcivek te ijebo teaw ogfec bu.",
+    "bio": "Witutjas juhe jeffu hu biehuwo fustiveb boipge le imnohe nucfendu ot cig gil upwic riuleje. Witi cuvid kihiklop mumwat kuhzid hofefut pacfiagi salvain pehte catedul wupwazsi icgisec uza derwit ce menaszi uc. Ram situwza na jow pihceguc kihbewo oc kilunad pemo bokuwca ivu uja lahpifa iseti. Umro vosji udo vaphod novzauca nava ohtodwuj vod cili tidop rejuzko bat wegsow. Aspit tah hod wi getoggi lave si ba mon veina ha daacpa vepappa teb ignin ezpoj fudzad."
+  },
+  "apiKey": "0b6f91effde840569db0ee2381f9e8ace2baf1f737c007630b75d269813e9854",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
