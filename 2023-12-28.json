@@ -1,0 +1,26 @@
+{
+  "name": "Andre Atkins",
+  "age": 52,
+  "address": {
+    "street": "Mize Junction",
+    "city": "Jehiska",
+    "state": "OK",
+    "zip": "70196"
+  },
+  "contact": {
+    "phone": "(622) 661-9368",
+    "servicePhone": "800758111"
+  },
+  "birthday": "1988-08-30T15:16:33.430Z",
+  "ip": "48.206.91.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Ufnihek va coof oju fusmu hajec piteg vi wofco dogac mociuja ud kopfojres ihilugoh. Cuhap ab ajaza vaz aja afewojaf vujzej su gi vij socujre igu guw hise ge. Jaram oh nehic nivegu wot mazdetof lona pugakugac civna pi ejaz viv nufbuhet bi.",
+    "bio": "Lamvi pizen buclare rusubep me ovka as benacu cipaz gep tuwanada ba wove. Noca volnejhod tapejnob ivwoam opwukaro kew pub ok nimjama vogerna zabja hugoav fudarneb. Ojezaro hijobo im nadfepun aw pune afedi pipecawub lil mihe sur ahso ivija az."
+  },
+  "apiKey": "5fda058fd5093cc2d3a9cc17db56c873fecf145e093019d1506de8c149619201",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
