@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Ballard",
+  "age": 56,
+  "address": {
+    "street": "Juran River",
+    "city": "Ajlaclam",
+    "state": "KS",
+    "zip": "12946"
+  },
+  "contact": {
+    "phone": "(450) 333-8285",
+    "servicePhone": "800368983"
+  },
+  "birthday": "1989-12-22T22:00:01.420Z",
+  "ip": "114.213.203.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Dana bovdu leufu wiril fa vo fu jog lifnos pum dakfab rouza ralu vur iw. Pitowot eb tafifpob pesebkez iso rulluk fuddo kone tudlew luvo kujcezaf mit jeh ekikeg topvo. Owdehno fockitik kizoj kel hap hahcigfic gal osaov zewira wuglo iteujho opziwgi.",
+    "bio": "Jeh la nuwo unujunuh ami beut pifahu ne utedecre ebuwego dizav negi. Oti bapilupe zitzu zuofolit ke va retkuiz bive cih zeon jinigmum wu. He dinag rus fapucu giena bunkek fauzsef ikiwebiw ecup se hemsak gan. Pivcoh cuw mosmof ki sijuco ito cod towmavka rubvemhud fo suur ufeohi. Duh gen do acpozbe je ba mimgit pozdu za papeweh ce sa imoreb pivpaegi hik golovu ufasuwoz."
+  },
+  "apiKey": "8438698d7fa7436f1271ec14e3ae4e4a0ae1b64eaffecbf07fd31fbd12381733",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
