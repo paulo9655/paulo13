@@ -1,0 +1,26 @@
+{
+  "name": "Nina Parks",
+  "age": 56,
+  "address": {
+    "street": "Mihpa Street",
+    "city": "Liwekot",
+    "state": "NM",
+    "zip": "41249"
+  },
+  "contact": {
+    "phone": "(266) 900-2973",
+    "servicePhone": "800621881"
+  },
+  "birthday": "1979-01-17T00:59:51.421Z",
+  "ip": "187.162.181.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa buw ru dadve gurvatnu sojzues pouknuw godibuh pampe se hovla revir titpulo irjogoc sedud kov muva erwen. Dal mis emegoz capuf oh wuro jabug daecu ge pi jesosci hul zujezjaf tuza. Big uzuzezpa jij sur vuccuzu koesieju cuhe caw odola vamupci kurca alakehgi loedubip. Nagvegoz mobzuno pouzid to fijgeju dufewouc cijeb woh iphatan taceg te hodewukeb juzon ciguk mahzenega zundef sowbiiv. Haru idori ipabazoh hiori wurodufal co do igme zirdan ul afi tapriz budon poddehe jamwiv sicgokji juz.",
+    "bio": "Gi otbe do tumbav pommewip mabcutiv eg vuwa ce pid didkodcor ku paddoten ekdi nupu. Izromab orgo ciwkuaz ebve kaafi mul onok eniw nesvovha guwojmuw bi taf nat bozum. Da rikev nebajej igsi iluniwa gow cimper owoli wanur vadar do wegkidwu cotu."
+  },
+  "apiKey": "fe5fae268778988d8f737a6158c88c8764859da611d56625dde30c4568a2a173",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
