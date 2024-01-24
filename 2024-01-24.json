@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Phillips",
+  "age": 37,
+  "address": {
+    "street": "Ejre Ridge",
+    "city": "Ribode",
+    "state": "VT",
+    "zip": "80340"
+  },
+  "contact": {
+    "phone": "(686) 389-4188",
+    "servicePhone": "800552442"
+  },
+  "birthday": "2003-10-21T18:13:56.594Z",
+  "ip": "35.39.237.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Zegero binetim hipmidu iwikirva ko sek hewsujuro esupu bekurze zesidew fosen tavdofu piw anelum gusufa ad guzwuj apeem. So nonis itgeta avgu hihubsub wofe rupobop gi ceh buomo zacso fak nodenoku sod solbahbi kenaku bah haas. Puculsog roj vojoranuf divel bijzol juj bannus odiso icu movip zipu jig vaacu ketasec leaburen tumzuzwul okarur munwuvuz.",
+    "bio": "Fek kothe mapic taloh ci ditpel vopo zejev fudewfur rivuvogi uva kakva bebow iso ifuza. Maupmaj babfa raoci mu pimneniro vuk agazho ulo sel mok liaje rurtej wafufzi. Deov gi badfu kumgad vi izewe soona hipdibe egu vege vugeroaju raz waninzi lidzoohi raj."
+  },
+  "apiKey": "68f6d1faa14842eb824d8783796377f68e4370353d80332c829bd48b95e54d5f",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
