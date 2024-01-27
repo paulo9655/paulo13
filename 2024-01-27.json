@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Martin",
+  "age": 18,
+  "address": {
+    "street": "Rivca Pike",
+    "city": "Getkiohi",
+    "state": "NJ",
+    "zip": "09524"
+  },
+  "contact": {
+    "phone": "(829) 925-7000",
+    "servicePhone": "800933656"
+  },
+  "birthday": "1985-10-08T00:50:04.358Z",
+  "ip": "59.236.181.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Cilvizki ran goiwfo guv do gunle rep zopho lajjuvdiw dongu gugug tulmiof miilu tecduco kiekuhaf. Torpoipa revo naggivab tas gaw pitedu rugpegmob fe co ful tofor hiwnojfa tuvjub. Isu itda wote azowifa naglezjo mim warir ajneusu lo pewitva wohuj ahuekjic rofukra jogpelcu. Pugro sew wo zoko jeg gavwusete mokid us vop lolpuhezo evuze afipa gi.",
+    "bio": "Jinrol zojkupve cu babfigmez ogo sozkucsu tubcumses noimbe rumojomu jud jan co wiiwnup te ver nebe disaluma hawreh. Bis mela cifok bo so bumkafeg evuwuj emuij pacbo suhunef edobuhhuv keima cetku jispeji ebun vugvas sohoot mam. Dogis jow lowke inihiha fiarte ehudiga pateole ada ej viri hoz pokti iti darur onouj."
+  },
+  "apiKey": "f3113de5d5e45b52aa8180a8745f2df15430740d64f395878fb29fd8078e4021",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
