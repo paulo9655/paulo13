@@ -1,0 +1,26 @@
+{
+  "name": "Joel Barton",
+  "age": 21,
+  "address": {
+    "street": "Lige Turnpike",
+    "city": "Gaujesa",
+    "state": "CT",
+    "zip": "08728"
+  },
+  "contact": {
+    "phone": "(285) 608-6334",
+    "servicePhone": "800489544"
+  },
+  "birthday": "1982-07-22T23:48:45.633Z",
+  "ip": "84.194.212.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Rekipow kumesbeb fe darnangem kuekuz tafebdop ow le fe bef fohip rebsu lu haice. Zupteb peh tugukop oweiz wekafpo ka galebja pet puwihoj riizi ec diodute humvu zubcup bi. Kup zanitvu fog nik ipdahib wokjehsus tavtu fagejfo zoli jutuzve jih mihambeg wubaru effa we malas. Sarun uszi seha furel toneb azuke bunnuput pafud fuze dorgagsa ruhnocroj loahacit diabaub. Ov ramcuwca teklo velmil wazizu barrillif wa wagivju ija fopga hifguzdeg zagbeca rugah oheno heg ec vez. Jafja iz zuvik da miti puczo sow ab hacacco cumocit ri fivek ra.",
+    "bio": "Cawig fijo sa icju fasiszu owbi dovlatam jecjata es eprezfid dew ri asaijbil rewaf. Gidi ipoluci zuoda lijjo ka wunofgo jar wisciub ikdesag raneh katzu cozam uk la wuvjuoha. Kan raeso sirgiz birovaka bar za hovgu ino piz hejom bac cofekbif mul ogizenap. Igolino vuvlig finuma not icaotvom ji utaawu cume sidle aw udamod idikotaz mukhuh ivioda fonta ziiruef lipuh."
+  },
+  "apiKey": "ac34401f4eeaa9dfd6241e314c6a52a1b59d63ea70cff8be5074eed4cf06a9c4",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
