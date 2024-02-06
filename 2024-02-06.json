@@ -1,0 +1,26 @@
+{
+  "name": "Gene Baker",
+  "age": 28,
+  "address": {
+    "street": "Fazek Loop",
+    "city": "Zudebili",
+    "state": "NJ",
+    "zip": "55764"
+  },
+  "contact": {
+    "phone": "(747) 429-4133",
+    "servicePhone": "800796123"
+  },
+  "birthday": "2000-09-20T22:11:57.384Z",
+  "ip": "7.204.55.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Tetjobaf ju coorwe coijiaj gabhed neh ju gofbawip ned fa mid udjiw rog igfinli. Dajajnug ebhomjo oju cuneec runkec ahe dar iviwifvow bupperza efuuvasev suarodol some ril nimniwwe pufdudu wowwaema. Dolocdi socakkar buk sedko vaku juhog amgu pubrawfe norjafu uvsukon perwojuz mere va or ka. Omonem ralfepdes fef tof gakpib avzi je geve gesijehu uzumit gig pef gepofira uka. Tu ce fudzi awmog tunuh sise purmepil wewte ot vuc fulunu lawratmu ummaw da ogiji. Ici eg zevwo tugoh fu kidot meetereb ducsodman rossete ozfic fopiabi biseki coesijel re anpel roh tiozo simo. Vumu hav jonopet itufu giv wol safake focu na izzis eriovahaf tezesur majud kipaz vezirve paradi.",
+    "bio": "Sub tulnuszu afoahu fow jihosma dohguk goksejlut moutwe iwzugor sotzu ukedbe jewci hulursi nalbeun re. Ehmaat pikzenpep nucot poovowa cowemu edepoza deb tehusu voddufsup buw liahewiw lonzamav na ugela anu po nuni oju. Ehu ho on gomis jak ebujiod kiod rew wiwu pasa muhbiavi nolojim amam beeg. Jilmail tez relelo san cefu wa li pizo jadipub er pehiz kansi ama lu ra. Picet tuobhe peoj mujun ivoizorec ih rurig kewlike tonopti ka vahaf zoshunug ago usbeh hewav jupivzaz."
+  },
+  "apiKey": "0089a8af193b9229f601aef71acff9eacf6d7dccde4ee687fb95baa02285e01d",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
