@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Cobb",
+  "age": 26,
+  "address": {
+    "street": "Naev Heights",
+    "city": "Hulvifoji",
+    "state": "CT",
+    "zip": "77231"
+  },
+  "contact": {
+    "phone": "(785) 919-7623",
+    "servicePhone": "800397623"
+  },
+  "birthday": "1993-12-21T23:41:47.462Z",
+  "ip": "213.11.71.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Sez nilego fav matad renza ifabekej howe jajevug dajirav urabag jun vifoj. Cim abko lorso newis padavu nuc ka memoka zeviric fejhobi fuf ehucu ko. Opa howopuc omiohba zuek bekcutko jedpi hukiti be wigmobabe toc nulwe zompe okvijab runhadrud fodka.",
+    "bio": "Gabul ise iju ruf ojzisa te jizho la mafbakwi no waddilob gihob midtajuf hi la sunlif kifepir. Lesdu uzijugo nohjetvi pokdutkad mawalluv ad je safan howoja wowse fecoskem fus zekeiz terca zep. Hinikva abowoub jujkibol kec esdip amumiz ric on opafa odonic esucuuh imi cegiluh kujgol. Fato baitinas uvul uv losote sanvesmi noilo ibsev divap pe hohna hoj lohbog."
+  },
+  "apiKey": "e4a5a039bbabcf7517d471dcc12e17c17018a8cca3cc8c664be85c9e9b6c28a2",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
