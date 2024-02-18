@@ -1,0 +1,26 @@
+{
+  "name": "Lida Kelley",
+  "age": 31,
+  "address": {
+    "street": "Mugvah Ridge",
+    "city": "Zoecade",
+    "state": "NM",
+    "zip": "27022"
+  },
+  "contact": {
+    "phone": "(746) 607-4417",
+    "servicePhone": "800619422"
+  },
+  "birthday": "1988-09-30T05:34:01.042Z",
+  "ip": "99.132.211.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Heobbeg voz zajco becgo jet dor sozice jonuvi waljojkir naredoc dokij col. Izocir facmufo rer ovse so obu bumcof hoake ci le anegi luzcurse. Ji bepic tinjo ic hikjo bew movemo japvochu la coca cakva oga sa nutvo.",
+    "bio": "Jeav sowohmal gulawenow vuraus gujali rolcil ji bacbefiti ow nic uspovom cu fagug ze vagvoz. Fibbu teeso foeci puwdi kofupoume cunutvim rosudtof fe jiwupvu enoorvam guuhbul di ahrez sujbisbi wegeb duv. Cukow sacbohaz utu da pe lawufugah kifuho mel hohemda pesripe vece giuv farci. Gahgomsim tig bizgubon noz gef sezusezav zujda kudce em nejces cabbecu ote mija wakum ficrek saamo ujjajwim kiso."
+  },
+  "apiKey": "1ac52f51b6cd41ff5637c250251ed53706a1d8d54a90546103ecd2fc8aea2e1a",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
