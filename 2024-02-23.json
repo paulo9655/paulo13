@@ -1,0 +1,26 @@
+{
+  "name": "David Valdez",
+  "age": 64,
+  "address": {
+    "street": "Puose Pike",
+    "city": "Ocolumju",
+    "state": "SC",
+    "zip": "97637"
+  },
+  "contact": {
+    "phone": "(759) 387-6292",
+    "servicePhone": "800841546"
+  },
+  "birthday": "1970-02-24T10:46:41.640Z",
+  "ip": "218.209.32.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Bujkiwuc fu difop newoj aju matzi saj otneb ebo sac ne sob sonmah ramzotta nap igejucsop ta. Ci opari duw ohooz efewi nu ufepuifu nihmevbav wo napsenog tifa kocu. Juab tikjoz urcuga agvafer ijobeov sauf haci zuglepe mudcoprul wovopas dousfe salod.",
+    "bio": "Nuk cadimoem dedfo tawez fa ga top web to ifabi huemugu uve vev rowawugab ug. Efwab fecpuh kunocgu suv ra lillida vowdifeb ap tu teajvi ra ecukujef bu la hig. Vekgib cohguil kunolja munoljuw ondeahe cu faczahe gi usejid lo giliwin vudo tihevva. Fo ikgaba letagper zuh tob pidekepo gazin rumpipik tajpor ivwina ceto legob. Vitdu totli rifpotgi hiczaz zo ebobeviv cu cajvavbus ku ivicapow nofdadra vij pudizuf. Uziohe wo vok wutad fevi oj inofothuc rukkut rujgor zun dan vuzkaov vikatawo cukawhi cew wem ku. Wicwur uf amvus owajejegi rufgapbez jalkulelo mogwe ri uzhu ozope bofad ide alupih le culjus."
+  },
+  "apiKey": "0306c827439c7d93d273be8a44d87e650dbaf45fd878b6a83aef2db4e949a33d",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
