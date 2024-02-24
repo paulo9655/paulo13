@@ -1,0 +1,26 @@
+{
+  "name": "Alice Hodges",
+  "age": 43,
+  "address": {
+    "street": "Fala Grove",
+    "city": "Pengepu",
+    "state": "NM",
+    "zip": "67927"
+  },
+  "contact": {
+    "phone": "(379) 972-2546",
+    "servicePhone": "800397373"
+  },
+  "birthday": "1973-10-20T11:19:00.826Z",
+  "ip": "65.32.4.125",
+  "foo": "bar",
+  "profile": {
+    "about": "No des raposowa sepre radjo kamel kiphup fi ejul ewro wofeaju mingohuh puawi nirten haw kubadizu emosij hakfum. Da kuuw ojcugtah harkav sul mam gi buhgababi perroda ku vi wadjige ko jijteru hev evjiwzol. Vesrageb obawus zuji luf kinnicol lazece udoekuif bihavocep fo raw kuzowgol ale omiho. Towif galieh rabajab befmupog cuebese ipipu bemmanruc cal apoub ri rij sopcos diepi ve pimemen ca. Wimoh naicijaw muc gefzaip jaw omuj fecrol aho ti rivzizum aba hejuon ew busejce. Repnezki hotlikfuz ricka besikna hurhuf zi bacli ofesup soci me wutik rokas ah.",
+    "bio": "Eflo kucego we fuiwifel ru nisbupul mu ko we nuzensoc juw big gu feaco. Utase piwwonub ge sena noji hewrugwe geide malbi damupat wortuwwe mif ratoip dolu. Jeha eg fopla gor bidec vap olof gib hen hifo pahzajo vak dan okozekere nap gojgojco kar vi."
+  },
+  "apiKey": "a9b93756501a15ef63510ace8a98fa226105069946a1fe95f540024aa57b1a93",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
