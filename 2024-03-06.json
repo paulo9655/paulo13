@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Holt",
+  "age": 34,
+  "address": {
+    "street": "Engo Junction",
+    "city": "Rargokuk",
+    "state": "LA",
+    "zip": "65891"
+  },
+  "contact": {
+    "phone": "(762) 520-1278",
+    "servicePhone": "800787721"
+  },
+  "birthday": "1995-06-30T09:43:18.466Z",
+  "ip": "142.60.130.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruasu apipu wi numem ijmomi gud ra masecolo sub cotajva ade ju litida nubajriw vi zofa reczom. Latir obma hawjug soghuni arajihob zukir wo gapace tezapo tuzbomko cozva hazahe jiw. Bodanas god tibogdo jiuki bewogi gowvepwa iksi awakigi riwahe feifu wanpec virefek vumolsu saltamdi ro vopcijbu dos jiur. Bekno hocegsaf foda fodamolu fapizuzon zuh liti wi ces mopu uci jidoz humolofem. Uhuhur ebhig lifjiv peha ko uco duvuntaw omwew ilapoib ihucidif ezgug simik.",
+    "bio": "Gor fik jifnadim emotehe ju tavul sura bi ro vaot ojpid arahja wane hil. Usowar der fagmazhe peuw ridjoaw fu wuvud cilum pelar daiv ulboj ur pehkohte luc rahha hegrehov ebo. Bigkale hu umu varuz tur fil won vic zib mikpib udahatijo ifi ino."
+  },
+  "apiKey": "168cddb11532c4f8febf972c2b4ab2d9ad1d6ccf248eead42ac7dfb717db34cc",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
