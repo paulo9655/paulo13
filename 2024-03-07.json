@@ -1,0 +1,26 @@
+{
+  "name": "Olga Sutton",
+  "age": 35,
+  "address": {
+    "street": "Ovowe Street",
+    "city": "Jofpiwe",
+    "state": "CA",
+    "zip": "76804"
+  },
+  "contact": {
+    "phone": "(649) 656-8965",
+    "servicePhone": "800968552"
+  },
+  "birthday": "1969-08-13T08:36:54.286Z",
+  "ip": "67.55.81.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Kin lu ojatalun etekeko jofro piifo fejgum iditjul javi vutivra gabca fonul cazuviwu ubav. Fugup caocetu tizlegva baile ruf gudfev tiwizan fivate olihu kosubcon col dotmel danuap fi awku ho. Lijumuk sibef jazfat mogefeevo ol verig sompum uk nuwmewe cuz dadpez nogeko da gisufo. Nadeul de fowceije es ipa uwawiw ulmi navpugwol mowsaf egcu iwowebev detudnol netpu.",
+    "bio": "Id nugdec kotbimi meh wico tadpef efo oh inmo mulaet fet ja. Ajlovco derebuh emejuku haf gapge lacase kas ho hahuz holruhsi cuv sovja afi ramni ukovip. Emonatut mezam zi kowolteb ot lil sufuz nece kapoza cujobma le waitowu kuvfetvim rude awaerkow acu. Cafaleeko guvor ju mu sabri fovco lefpef laklek artultup ad vuum ticike fec nihri pirne. Evo pusem ehto lasog otikecgo deddo padak ter sum pufup futbiskin oho basmugo sownekhab. Ku cikuz ug unuzu bihu idi is butnu fuejnu la hatuf raumden ubpipce ewune hupril eprima zon."
+  },
+  "apiKey": "c2fb236deb5850c43aeec46512fff974c377de03e6be3b16613850ce97674ff8",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
