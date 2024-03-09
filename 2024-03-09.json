@@ -1,0 +1,26 @@
+{
+  "name": "Mae Myers",
+  "age": 44,
+  "address": {
+    "street": "Haali Highway",
+    "city": "Wiledi",
+    "state": "OR",
+    "zip": "39962"
+  },
+  "contact": {
+    "phone": "(252) 402-7536",
+    "servicePhone": "800566544"
+  },
+  "birthday": "1977-10-24T18:05:44.147Z",
+  "ip": "182.93.48.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Gugsejod havahu rimaktod be vi le umcuh ihoarjom faab tej efdo debir urlela ridunisa. Pi lokuw hop so wilas foan de kurnu go gica hi ripu tafiwbaj iw ajiwaccoj vorohe. Cazfezdoj ce wukzilsib lo ipaegioc affa bab cu ravrofopa baazeco kop zosozup repho wiwamini.",
+    "bio": "Nuh fuk fownam pis ufocu jakori robetcam epujeivo gojijbum ipec muf jepkucboh ko viiglif. Wikfi uvdot dus tacevame comi dijdo nasiv jegoc uga amvirjuc pok akce mizgo hape rac. Ah tazdu walreon eb aci oditeluf cug notgokuv cid icgot besekoti sowaef neupe kogima tokejagi uditowif."
+  },
+  "apiKey": "45af6299c98d622f1875eb28ee85b1a797f099041197ac1d64c70ed2678c2d03",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
