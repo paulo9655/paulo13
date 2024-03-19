@@ -1,0 +1,26 @@
+{
+  "name": "Annie Rogers",
+  "age": 33,
+  "address": {
+    "street": "Otsi Drive",
+    "city": "Zizagah",
+    "state": "TX",
+    "zip": "69410"
+  },
+  "contact": {
+    "phone": "(217) 817-8407",
+    "servicePhone": "800213529"
+  },
+  "birthday": "1999-03-05T03:04:38.321Z",
+  "ip": "13.147.136.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Weik ha tuz cucumpuz fesu ipci lijnurhe parliw porumhot en lubul taslepdic sajam igu dewzap mebluvuv mauk fikuh. Sicodi gen reksurre ri leajjet mifpokti kuf gu waigo jotgi ewbeaci rijeldaz. Doramfi kuphaunu cajanive tica ilavebi piv odesaoge wovecoz hetmolbif rassof dasra wuduj mimufsoc co ewsabja zumiwu. Zo umal dot unpebzo agdisuf ziv danvic ulci biguko su guki zitloiho. Legtaf nag pafmike sor viuciena ton zo rami ditolo najvomav jeki wuboek puf hu.",
+    "bio": "Wuba ji faho simamo ze resluzur remce vuc ti sevel izimuah guwomel vu tatdejic gij. Podewir lupowul tapvokina edelo mer zocid icebop ervouz perued kosvem ajucup ibwe cugo zifbi piher. Ji reimjo rahfo wuko hobul fev ezabanam sazu wod tek rug tijpubbuf amtan wo webtowna."
+  },
+  "apiKey": "3ddd9f50449eb456088816837a3b9ba1644c164248cd2327a1d828669eb94e72",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
